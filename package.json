@@ -1,0 +1,31 @@
+{
+  "name": "js-plugin-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangWei2222/js-plugin-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangWei2222/js-plugin-cli/issues"
+  },
+  "homepage": "https://github.com/ZhangWei2222/js-plugin-cli#readme",
+  "devDependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "download": "^8.0.0",
+    "fs-extra": "^10.0.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.2.0",
+    "log-symbols": "^5.0.0",
+    "ora": "^6.0.1",
+    "update-notifier": "^5.1.0"
+  }
+}
