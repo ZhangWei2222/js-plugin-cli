@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ZhangWei2222/js-plugin-cli#readme",
   "devDependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^4.1.2",
     "commander": "^8.3.0",
     "download": "^8.0.0",
     "fs-extra": "^10.0.0",
